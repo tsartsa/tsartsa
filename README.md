@@ -4,7 +4,7 @@
 
 - 💻 I'm a Cybersecurity enthusiast, interested in Ethical Hacking and CTF competitions
 
-- 🎓 Currently an IT Undergraduate Student, actively trying to learn more about Hacking stuff
+- 🎓 Currently an IT Undergraduate Student, actively trying to learn more about Ethical Hacking
 
 - 👈 You can check my TryHackMe and HackTheBox profiles while I'm trying to level up
 
